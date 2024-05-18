@@ -10,6 +10,7 @@ packages = [{include = "plw_pytest"}]
 python = "^3.10"
 playwright = "^1.44.0"
 pytest-playwright = "^0.5.0"
+flake8 = "^7.0.0"
 
 
 [build-system]

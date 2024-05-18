@@ -1,13 +1,17 @@
 certifi==2024.2.2
 charset-normalizer==3.3.2
 exceptiongroup==1.2.1
+flake8==7.0.0
 greenlet==3.0.3
 idna==3.7
 iniconfig==2.0.0
+mccabe==0.7.0
 packaging==24.0
 playwright==1.44.0
 pluggy==1.5.0
+pycodestyle==2.11.1
 pyee==11.1.0
+pyflakes==3.2.0
 pytest==8.2.0
 pytest-base-url==2.1.0
 pytest-playwright==0.5.0
